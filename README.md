@@ -6,6 +6,12 @@ Awesome Aspects of Ethereum 2.0
 - https://our.status.im/two-point-oh-the-beacon-chain/
 - https://ethos.dev/beacon-chain/
 
+### Data Structures
+- https://notes.ethereum.org/@djrtwo/Bkn3zpwxB#High-level-overview
+
+### Validator Journey
+- https://medium.com/alethio/ethereum-2-a-validators-journey-through-the-beacon-chain-843f70aaab2e
+
 ### Docker Setup
 - https://github.com/stereum-dev/ethereum2-docker-compose
 
